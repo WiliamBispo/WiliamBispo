@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wiliam Bispo. 👋🏾
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/WiliamBispo)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiliam-bispo-997bb8215/)
 
 ![Wiliam GitHub stats](https://github-readme-stats.vercel.app/api?username=WiliamBispo&show_icons=true&theme=dracula)
 
